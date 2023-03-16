@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/agepredictor/static/css/main.69ee087a.css",
+    "main.js": "/agepredictor/static/js/main.45acd624.js",
+    "index.html": "/agepredictor/index.html",
+    "main.69ee087a.css.map": "/agepredictor/static/css/main.69ee087a.css.map",
+    "main.45acd624.js.map": "/agepredictor/static/js/main.45acd624.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69ee087a.css",
+    "static/js/main.45acd624.js"
+  ]
+}
